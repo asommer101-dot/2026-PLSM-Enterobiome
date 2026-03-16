@@ -6,4 +6,9 @@ Repository for  *Proximity ligation shotgun metagenomics reveals disease-specifi
 <sup>3</sup> Center for Immunology, University of Minnesota, Minneapolis, MN USA  
 <sup>4</sup> Division of Gastroenterology, Hepatology, and Nutrition, Virginia Commonwealth University and Richmond VA Medical Center, Richmond, VA, USA
 
-## Repository Structure
+
+## Sequence Data Availability
+
+Raw Illumina reads and assemblies are available in the NCBI Sequence Read Archive (https://www.ncbi.nlm.nih.gov/sra) under BioProject ID PRJNA1438274.
+
+## Folder Structure
