@@ -1,5 +1,5 @@
 ###Author: Andrew J Sommer
-###Date Modified: 3/16/2026
+###Date Modified: 3/17/2026
 ###Description: Code for Anaylsis of Enterococcus and Vancomycin ARGs
 library(dplyr)
 library(vegan)
@@ -13,7 +13,7 @@ library(tidyr)
 library(rstatix)
 
 #####Load in metadata
-sample_meta <- read.csv("Import/Metdata/Sample-Metadata.csv")
+sample_meta <- read.csv("Import/Metadata/Sample-Metadata.csv")
 head(sample_meta)
 
 
