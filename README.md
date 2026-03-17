@@ -15,15 +15,17 @@ Note: This repository accompanies a manuscript currently under review. Some data
 
 ## Repository Structure
 
-**01** Enterobacteriaceae Pathobiome Analysis (R): Code for the analysis of Enterobacteriaceae ARGs and VFs. 
+**01** Enterobacteriaceae Pathobiome Analysis (R): Analysis of Enterobacteriaceae ARGs and VFs. 
 - Contains code used to produce Fig. 1a–d, Fig. 2a, extended data Fig. 3, extended data Fig. 4
 
-**02** Enterococcus Vancomycin Analysis (R): Code for the analysis of Vancomycin ARGs.
+**02** Enterococcus Vancomycin Analysis (R): Analysis of Vancomycin ARGs and vancomycin resistant Enterococcus.
 - Contains code used to produce Fig. 2b and extended data Fig. 5
 
-**03** Microbial Abundance Analysis (R): Code for taxonomic barplot of MAGs and differential abundance testing.
+**03** Microbial Abundance Analysis (R): Taxonomic barplot of MAGs and differential abundance testing.
 - Contains code used to produce extended data Fig. 1abc
 
-**04** Plasmid Abundance Analysis (R): Code for analysis of bacterial plasmids across sample types.
+**04** Plasmid Abundance Analysis (R): Analysis of bacterial plasmid abundance across sample types.
 - Contains code used to produce extended data Fig. 2abcd
 
+**05** Plasmid Abundance Analysis (R): Comparison of healthcare burden and VF/ARG Abundance
+- Contains code used to produce extended data Fig. 6, extended data Fig 7, and extended data Fig 8
