@@ -15,4 +15,6 @@ Note: This repository accompanies a manuscript currently under review. Some data
 
 ## Repository Structure
 
-**01** Enterobacteriaceae Pathobiome Analysis (R): Code for the analysis of Enterobacteriaceae ARGs and VFs. Contains code used to produce fig.1abcd, fig.2a, extended data fig.4, and extended data fig.4
+**01** Enterobacteriaceae Pathobiome Analysis (R): Code for the analysis of Enterobacteriaceae ARGs and VFs. Contains code used to produce fig.1abcd, fig.2a, extended data fig.4, and extended data fig.4  
+
+**02** Enterococcus Vancomycin Analysis (R): Code for the analysis of Vancomycin ARGs. Contains code used to produce fig.2b and extended data fig.5
