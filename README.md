@@ -20,3 +20,7 @@ Note: This repository accompanies a manuscript currently under review. Some data
 
 **02** Enterococcus Vancomycin Analysis (R): Code for the analysis of Vancomycin ARGs.
 - Contains code used to produce Fig. 2b and extended data Fig. 5
+
+**03** Microbial Abundance Analysis (R): Code for taxonomic barplot of MAGs and differential abundance testing.
+- Contains code used to produce extended data Fig. 1abc
+
