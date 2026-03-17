@@ -25,7 +25,7 @@ family_colors <- c("Enterobacteriaceae" = "#CA483A",
 
 
 #####Load in metadata
-sample_meta <- read.csv("Import/Metdata/Sample-Metadata.csv")
+sample_meta <- read.csv("Import/Metadata/Sample-Metadata.csv")
 head(sample_meta)
 
 
