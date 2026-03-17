@@ -24,3 +24,6 @@ Note: This repository accompanies a manuscript currently under review. Some data
 **03** Microbial Abundance Analysis (R): Code for taxonomic barplot of MAGs and differential abundance testing.
 - Contains code used to produce extended data Fig. 1abc
 
+**04** Plasmid Abundance Analysis (R): Code for analysis of bacterial plasmids across sample types.
+- Contains code used to produce extended data Fig. 2abcd
+
