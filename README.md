@@ -19,4 +19,4 @@ Note: This repository accompanies a manuscript currently under review. Some data
 - Contains code used to produce Fig. 1a–d, Fig. 2a, extended data Fig. 3, extended data Fig. 4
 
 **02** Enterococcus Vancomycin Analysis (R): Code for the analysis of Vancomycin ARGs.
-- Contains code used to produce Fig.2b and extended data Fig.5
+- Contains code used to produce Fig. 2b and extended data Fig. 5
