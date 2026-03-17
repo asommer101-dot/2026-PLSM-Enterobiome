@@ -14,7 +14,7 @@ library(patchwork)
 
 
 #####Read in and Merge Metadata
-sample_meta <- read.csv("Import/Metdata/Sample-Metadata.csv")
+sample_meta <- read.csv("Import/Metadata/Sample-Metadata.csv")
 head(sample_meta)
 
 
