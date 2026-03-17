@@ -9,6 +9,10 @@ Code repository for  *Proximity ligation shotgun metagenomics reveals disease-sp
 
 ## Sequence Data Availability
 
-Raw Illumina reads and assemblies are available in the NCBI Sequence Read Archive (https://www.ncbi.nlm.nih.gov/sra) under BioProject ID PRJNA1438274.
+Raw Illumina reads and assemblies are available in the NCBI Sequence Read Archive (https://www.ncbi.nlm.nih.gov/sra) under BioProject ID PRJNA1438274.  
 
-## Folder Structure
+Note: This repository accompanies a manuscript currently under review. Some datasets are not yet publicly available and will be released upon acceptance.
+
+## Repository Structure
+
+**01** Enterobacteriaceae Pathobiome Analysis (R): R code for the analysis of Enterobacteriaceae ARGs and VFs. Contains code used to produce fig.1abcd, fig.2a, extended data fig.4, extended data fig.3, and extended data fig.4
