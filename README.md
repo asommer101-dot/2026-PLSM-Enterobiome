@@ -13,6 +13,10 @@ Raw Illumina reads and assemblies are available in the NCBI Sequence Read Archiv
 
 Note: This repository accompanies a manuscript currently under review. Some datasets are not yet publicly available and will be released upon acceptance.
 
+## Preprint Availability
+A brief report of our analysis is available as a preprint via the following link: https://pmc.ncbi.nlm.nih.gov/articles/PMC13042160/
+
+
 ## Repository Structure
 
 **01** Enterobacteriaceae Pathobiome Analysis (R): Analysis of Enterobacteriaceae ARGs and VFs. 
