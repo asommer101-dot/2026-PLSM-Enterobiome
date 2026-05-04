@@ -16,6 +16,8 @@ Note: This repository accompanies a manuscript currently under review. Some data
 ## Preprint Availability
 A brief report of our analysis is available as a preprint via the following link: https://pmc.ncbi.nlm.nih.gov/articles/PMC13042160/
 
+## Contact
+For questions regarding bioinformatic methodology, please contact Andrew J Sommer (somme541@umn.edu). For clinical questions, please contact corresponding author (Jasmohan S Bajaj) in above linked paper.
 
 ## Repository Structure
 
