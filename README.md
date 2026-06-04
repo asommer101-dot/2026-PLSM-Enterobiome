@@ -31,4 +31,4 @@ For questions regarding bioinformatic methodology, please contact Andrew J Somme
 
 **05** VF/ARG Analysis (R): Comparison of healthcare burden and VF/ARG Abundance.
 
-**06_Supp** Contains an added sensistivity analysis related to relative plasmid taxonomic abundance at different filtering thresholds
+**06** Contains an added sensistivity analysis related to relative plasmid taxonomic abundance at different filtering thresholds
