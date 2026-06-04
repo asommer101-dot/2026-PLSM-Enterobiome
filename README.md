@@ -29,4 +29,6 @@ For questions regarding bioinformatic methodology, please contact Andrew J Somme
 
 **04** Plasmid Abundance Analysis (R): Analysis of bacterial plasmid abundance across sample types.
 
-**05** Plasmid Abundance Analysis (R): Comparison of healthcare burden and VF/ARG Abundance
+**05** VF/ARG Analysis (R): Comparison of healthcare burden and VF/ARG Abundance.
+
+**06_Supp** Contains an added sensistivity analysis related to relative plasmid taxonomic abundance at different filtering thresholds
