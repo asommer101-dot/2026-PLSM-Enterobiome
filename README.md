@@ -31,4 +31,8 @@ For questions regarding bioinformatic methodology, please contact Andrew J Somme
 
 **05** VF/ARG Analysis (R): Comparison of healthcare burden and VF/ARG Abundance.
 
-**Other** Plasmid-Sensitivity-Figure (pdf) contains a sensitivity analysis to see if the overall trends in plasmid composition change due to filtering threshold.   
+**Other** 
+
+Plasmid-Sensitivity-Figure (pdf) contains a sensitivity analysis to see if the overall trends in plasmid composition change due to filtering threshold.   
+
+HC/LC/rCDI ROC Curves. Zip file contains ROC curves for samples within each treatment group
