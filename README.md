@@ -1,4 +1,4 @@
-https://zenodo.org/badge/1183684734.svg
+[![DOI](https://zenodo.org/badge/1183684734.svg)](https://doi.org/10.5281/zenodo.21812577)
 
 # 2026-PLSM-Enterobiome
 Code repository for  *Proximity-ligation metagenomics reveals differential plasmid and chromosomal antimicrobial resistance gene carriage in disrupted gut ecosystems* by AJ Sommer<sup>1</sup>, B Auch<sup>2</sup>, A Khoruts<sup>1,3</sup>, JS Bajaj<sup>4</sup>  
