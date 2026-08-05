@@ -1,5 +1,5 @@
 # 2026-PLSM-Enterobiome
-Code repository for  *Proximity ligation shotgun metagenomics reveals disease-specific mobilome dynamics in disrupted gut ecosystems* by AJ Sommer<sup>1</sup>, B Auch<sup>2</sup>, A Khoruts<sup>1,3</sup>, JS Bajaj<sup>4</sup>  
+Code repository for  *Proximity-ligation metagenomics reveals differential plasmid and chromosomal antimicrobial resistance gene carriage in disrupted gut ecosystems* by AJ Sommer<sup>1</sup>, B Auch<sup>2</sup>, A Khoruts<sup>1,3</sup>, JS Bajaj<sup>4</sup>  
 
 <sup>1</sup> Department of Medicine, Division of Gastroenterology, University of Minnesota, Minneapolis, MN, USA  
 <sup>2</sup> Phase Genomics, Seattle, WA, USA  
@@ -10,14 +10,6 @@ Code repository for  *Proximity ligation shotgun metagenomics reveals disease-sp
 ## Sequence Data Availability
 
 Raw Illumina reads and assemblies are available in the NCBI Sequence Read Archive (https://www.ncbi.nlm.nih.gov/sra) under BioProject ID PRJNA1438274.  
-
-Note: This repository accompanies a manuscript currently under review. Some datasets are not yet publicly available and will be released upon acceptance.
-
-## Preprint Availability
-A brief report of our analysis is available as a preprint via the following link: https://pmc.ncbi.nlm.nih.gov/articles/PMC13042160/
-
-## Contact
-For questions regarding bioinformatic methodology, please contact Andrew J Sommer (somme541@umn.edu). For clinical questions, please contact corresponding author (Jasmohan S Bajaj) in above linked paper.
 
 ## Repository Structure
 
